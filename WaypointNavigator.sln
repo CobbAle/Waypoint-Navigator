@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaypointNavigator", "WaypointNavigator\WaypointNavigator.csproj", "{E80B65D3-303C-46AB-8322-1600A889288B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		x64|Any CPU = x64|Any CPU
+		x64|x86 = x64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Debug|x86.ActiveCfg = Debug|x86
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Debug|x86.Build.0 = Debug|x86
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Release|x86.ActiveCfg = Release|x86
+		{E80B65D3-303C-46AB-8322-1600A889288B}.Release|x86.Build.0 = Release|x86
+		{E80B65D3-303C-46AB-8322-1600A889288B}.x64|Any CPU.ActiveCfg = x64|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.x64|Any CPU.Build.0 = x64|Any CPU
+		{E80B65D3-303C-46AB-8322-1600A889288B}.x64|x86.ActiveCfg = x64|x86
+		{E80B65D3-303C-46AB-8322-1600A889288B}.x64|x86.Build.0 = x64|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCDC8D19-8485-42AB-B06A-B8238E9682EC}
+	EndGlobalSection
+EndGlobal
